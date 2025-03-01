@@ -61,21 +61,7 @@ Run the program:
 ./a2
 ```
 
-## Testing
-
-The program can be tested using the provided `tester.py` script:
-```bash
-python3 tester.py
-```
-
-For Docker-based testing:
-```bash
-python3 tester.py --docker
-```
-
 ## Requirements
 
 - Linux operating system
 - GCC compiler
-- POSIX threads library
-- Python 3 (for testing)
